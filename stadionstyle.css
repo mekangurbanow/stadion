@@ -1,0 +1,123 @@
+.stadion {
+	width: 700px;
+	height: 865px;
+	background-color: green;
+	margin: 50px auto;
+	border-top: 120px solid gray;
+	border-left: 120px solid gray;
+    border-right: 120px solid gray;
+    border-bottom: 120px solid green;
+	border-radius: 170px 170px 170px 170px;
+}
+.polya {
+	width: 700px;
+	height: 865px;
+	border-radius: 170px 170px 0 0;
+	background-color: green;
+}
+.minipolya {
+	width: 600px;
+	height: 760px;
+	padding: 40px 0 0 0;
+	background-color: blue;
+	margin: 50px auto;
+	border-radius: 100px 100px 100px 100px;
+}
+.ickipolya {
+	width: 450px;
+	height: 700px;
+	background-color: black;
+	border: 5px solid white;
+	margin: 0 auto;
+}
+.kicisi {
+	width: 250px;
+	height: 150px;
+	margin: 0 auto;
+	border-width: 0 5px 5px 5px;
+    border-style: solid;
+    border-color: white;	
+}
+.waratar {
+	width: 150px;
+	height: 70px;
+	margin: 0 auto;
+	border-width: 0 5px 5px 5px;
+    border-style: solid;
+    border-color: white;	
+}
+.yarymay {
+	width: 120px;
+	height: 50px;
+	margin: 0 auto;
+	border-width: 0 5px 5px 5px;
+    border-style: solid;
+    border-color: white;
+	border-radius: 0 0 55px 55px;
+}
+.ortayay {
+	width: 110px;
+	height: 50px;
+	margin: 100px auto 0 auto;
+	border-width: 5px 5px 0 5px;
+    border-style: solid;
+    border-color: white;
+	border-radius: 55px 55px 0 0;
+}
+.ortayay2 {
+	width: 110px;
+	height: 50px;
+	margin: 0 auto;
+	border-width: 0 5px 5px 5px;
+    border-style: solid;
+    border-color: white;
+	border-radius: 0 0 55px 55px;
+}
+.cyzyk {
+	width: 450px;
+	height: 5px;
+	background-color: white;
+	border: 1px solid white;
+	margin: 0 auto;
+}
+.yarymay2 {
+	width: 120px;
+	height: 50px;
+	margin: 60px auto 0 auto;
+	border-width: 5px 5px 0 5px;
+    border-style: solid;
+    border-color: white;
+	border-radius:55px 55px 0 0;
+}
+.kicisi2 {
+	width: 250px;
+	height: 150px;
+	margin: 0 auto;
+	border-width: 5px 5px 0 5px;
+    border-style: solid;
+    border-color: white;	
+}
+.waratar2 {
+	width: 150px;
+	height: 70px;
+	margin: 75px auto 0 auto;
+	border-width: 5px 5px 0 5px;
+    border-style: solid;
+    border-color: white;	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
